@@ -1,0 +1,25 @@
+body {
+	
+font-size: 12px;
+	
+font-family: "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+}
+
+img.banner{
+	margin-top: 15px;
+    width: 315px;
+}
+
+p.banner{
+	font-size:12px;
+}
+
+p {
+    font-size: 16px;
+}
+
+section {
+    display: block;
+    padding: 20px 20px 20px 20px;
+    background: #d5d5d5;
+}
